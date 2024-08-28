@@ -1,7 +1,7 @@
+// Inventario caotico
 #include <iostream>
 #include <vector>
 #include <string>
-// Inventario caotico
 using namespace std;
 
 int main() 
