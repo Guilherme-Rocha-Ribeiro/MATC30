@@ -1,4 +1,5 @@
 // Extintos
+// Dado um inteiro que indica a quantidade de strings que serão dadas como input
 #include <iostream>
 #include <unordered_set>
 #include <string>
